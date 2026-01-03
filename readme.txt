@@ -6,3 +6,6 @@ git branch -M main
 git remote add origin https://github.com/arem-anik44/my-first-github.git
 git push -u origin main
 efd dlfl
+
+
+so do it now na 
